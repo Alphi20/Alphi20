@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Eveything I can**
 
 - 📫 How to reach me **sadat20_ug@cse.nits.ac.in**
-- (img align="right" alt="Coding" width="400" src="(https://www.thisiscolossal.com/wp-content/uploads/2019/03/EikoOjala19_02.gif)"
+- (img align="right" alt="Coding" width="400" src="https://www.thisiscolossal.com/wp-content/uploads/2019/03/EikoOjala19_02.gif")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
